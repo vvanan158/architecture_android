@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mvp_architecture</string>
+    <string name="title_sign_in">Sign In</string>
+    <string name="username">Tài khoản</string>
+    <string name="password">Mật khẩu</string>
+</resources>
